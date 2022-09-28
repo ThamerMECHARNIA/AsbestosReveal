@@ -1,0 +1,129 @@
+terrassement;3;semelle
+terrassement;3;rigole
+fondations;3;murettes
+fondations;3;semelle
+parois verticales exterieures;3;soubassement
+parois verticales exterieures;3;ossature
+parois verticales exterieures;3;mur
+parois verticales interieures;3;mur
+ouvertures exterieures;3;blocs-fenêtres
+ouvertures exterieures;3;blocs-portes
+ouvertures exterieures;3;porte
+ouvertures exterieures;3;chassis
+ouvertures exterieures;3;porte croisée
+balcons;3;ferronnerie
+balcons;3;néant
+ouvertures interieures;3;blocs-portes
+ouvertures interieures;3;porte
+planchers sols;3;dalle
+planchers sols;3;sols
+toiture;3;charpente
+toiture;3;chevrons
+toiture;3;couverture tuiles
+toiture;3;plafond
+ESCALIER;3;néant
+equipement;3;evier
+equipement;3;lavabo
+equipement;3;bac à douches
+equipement;3;bac à laver
+divers;3;menuiserie
+divers;3;meuble
+murettes;6;béton
+ossature;6;métal
+mur;6;ciment
+mur;6;carreaux de plâtre
+mur;6;enduits
+mur;6;peinture
+blocs-fenêtres;6;métal
+blocs-portes;6;métal
+blocs-portes;6;sapin
+porte;6;chêne
+porte;6;isoplane
+porte;6;sapin
+dalle;6;béton
+dalle;6;ciment
+sols;6;linoléum
+charpente;6;métal
+chevrons;6;bois
+couverture tuiles;6;ciment
+plafond;6;placoplâtre
+plafond;6;laine de verre
+evier;6;grès émaillé
+lavabo;6;grès cérame
+bac à douches;6;fibro-ciment
+bac à laver;6;fibro-ciment
+menuiserie;6;peinture
+meuble;6;bois
+ferronnerie;6;métal
+semelle;6;béton
+soubassement;6;béton
+soubassement;6;enduit
+soubassement;6;ciment
+chassis;6;chêne
+porte croisée;6;chêne
+plaques de panocel;3;sols
+dalle de sol grise plus colle noire;3;sols
+canalisation;3;sols
+bardage;3;sols
+joint tressé coupe feu sur chaudière;3;sols
+plaque coupe-feu;3;sols
+joint mousse grise;3;sols
+plaques coupe feu;3;sols
+joint carton du bruleur;3;sols
+nez de marche;3;sols
+Conduit technique;3;sols
+conduit de ventilation avec chapeau;3;sols
+toiture;3;sols
+parement de façade;3;sols
+conduit cheminée avec chapeaux;3;sols
+conduits avec chapeaux;3;sols
+sols;6;Panneau mural panocel
+sols;6;EPI
+sols;6;Polyane
+sols;6;Consommables
+sols;6;Conduit fibrociment
+sols;6;Bardage fibrociment
+sols;6;Joint de bride
+sols;6;Polyane Consommables
+sols;6;Joints
+sols;6;Plaques coupe-feu amiante
+sols;6;Nez manche amiante
+sols;6;Conduit
+sols;6;gaine
+sols;6;fourreau
+sols;6;Fibrociment
+sols;6;Conduit fibrociment
+sols;6;Laine de verre
+sols;6;Joint de bride
+sols;6;Plaques ondulées fibrociment
+sols;6;Isolant laine de verre
+Sous-sol;3;Sol
+Entree;3;Sol
+Sejour;3;Sol
+Chambre;3;Sol
+Cuisine;3;Sol
+Salle de bains;3;Sol
+wc;3;Sol
+Sol;6;Béton
+Murs;6;Moellons
+Murs;6;Béton
+Plafond;6;Béton
+Plafond;6;bois
+Sol;6;Parquet
+Murs;6;Plâtre
+Plafond;6;Plâtre
+Sol;6;Parquet
+Murs;6;Plâtre
+Plafond;6;Plâtre
+Sol;6;Parquet
+Murs;6;Plâtre
+Plafond;6;Plâtre
+Sol;6;Carrelage
+Murs;6;Plâtre
+Plafond;6;Plâtre
+Sol;6;Carrelage
+Murs;6;Plâtre
+Plafond;6;Plâtre
+Sol;6;Carrelage
+Murs;6;Plâtre
+Plafond;6;Plâtre

@@ -1,0 +1,65 @@
+terrassement;3;semelle
+fondations;3;murettes
+fondations;3;semelle
+parois verticales exterieures;3;soubassement
+parois verticales exterieures;3;ossature
+parois verticales exterieures;3;mur
+parois verticales interieures;3;mur
+ouvertures exterieures;3;blocs-fenêtres
+ouvertures exterieures;3;fenêtres
+ouvertures exterieures;3;blocs-portes
+ouvertures exterieures;3;porte
+ouvertures exterieures;3;chassis
+ouvertures exterieures;3;porte croisée
+balcons;3;ferronnerie
+balcons;3;néant
+ouvertures interieures;3;blocs-portes
+ouvertures interieures;3;porte
+planchers sols;3;dalle
+planchers sols;3;sols
+toiture;3;charpente
+toiture;3;chevrons
+toiture;3;couverture tuiles
+toiture;3;plafond
+ESCALIER;3;néant
+equipement;3;evier
+equipement;3;lavabo
+equipement;3;bac à douches
+equipement;3;bac à laver
+divers;3;menuiserie
+divers;3;meuble
+murettes;6;béton
+ossature;6;métal
+mur;6;carreaux de plâtre
+mur;6;enduits
+mur;6;peinture
+mur;6;revêtements muraux
+blocs-fenêtres;6;métal
+blocs-fenêtres;6;sapin
+fenêtres;6;sapin
+fenêtres;6;mastics
+blocs-portes;6;métal
+blocs-portes;6;sapin
+porte;6;chêne
+porte;6;isoplane
+porte;6;sapin
+dalle;6;béton
+sols;6;linoléum
+sols;6;revêtements de sols
+charpente;6;métal
+chevrons;6;bois
+couverture tuiles;6;fibro-ciment
+plafond;6;placoplâtre
+plafond;6;laine de verre
+evier;6;grès émaillé
+lavabo;6;grès cérame
+bac à douches;6;fibro-ciment
+bac à laver;6;fibro-ciment
+menuiserie;6;peinture
+meuble;6;bois
+ferronnerie;6;métal
+semelle;6;béton
+soubassement;6;béton
+soubassement;6;enduit
+chassis;6;chêne
+porte croisée;6;chêne
